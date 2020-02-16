@@ -61,7 +61,7 @@ C. How do I write a script for a web page?
 ### What is a script and how do I create one?
 **script** : is a series of instructions that a computer can follow to achieve a goal.<br />
 **writing script** :put tasks to reach your goal.<br />
-you should devide a your goal to steps (e.g):
+you should devide your goal to steps (e.g):
   - define the goal
   - design the script
   - code each steps  <br />
