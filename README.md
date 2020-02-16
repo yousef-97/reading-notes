@@ -5,7 +5,7 @@ this is for all readings for **couse 201**: <br />
 
 |  ***#Read*** |      link      |
 |----------|:-------------:|
-| Read01 |  link |
+| Read01 | [Read01](https://yousef-97.github.io/reading-notes/class-01) |
 | Read02 |    link   |
 | Read03 | link |
 | Read04 | link |
