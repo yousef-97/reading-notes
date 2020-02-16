@@ -59,8 +59,8 @@ B. How do computers fit in with the world around them?
 C. How do I write a script for a web page?
 
 ### What is a script and how do I create one?
-**script** : is a series of instructions that a computer can follow to achieve a goal.
-**writing script** : aim to your goal the put tasks to reach your goal.
+**script** : is a series of instructions that a computer can follow to achieve a goal.<br />
+**writing script** :put tasks to reach your goal.<br />
 you should devide a your goal to steps (e.g):
   - define the goal
   - design the script
