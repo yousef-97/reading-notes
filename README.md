@@ -6,11 +6,11 @@ this is for all readings for **couse 201**: <br />
 |  ***#Read*** |      link      |
 |----------|:-------------:|
 | Read01 | [Read01](https://yousef-97.github.io/reading-notes/class-01) |
-| Read02 |    link   |
-| Read03 | link |
-| Read04 | link |
-| Read05 | link |
-| Read06 | link |
+| Read02 |    [Read02](https://yousef-97.github.io/reading-notes/class-02)  |
+| Read03 | [Read03](https://yousef-97.github.io/reading-notes/class-03) |
+| Read04 | [Read04](https://yousef-97.github.io/reading-notes/class-04) |
+| Read05 | [Read05](https://yousef-97.github.io/reading-notes/class-05) |
+| Read06 | [Read06](https://yousef-97.github.io/reading-notes/class-06) |
 | Read07 | link |
 | Read08 | link |
 | Read09 | link |

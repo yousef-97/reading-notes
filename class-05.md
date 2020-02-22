@@ -1,6 +1,6 @@
 ## HTML CH5 image
 the tag: \<img\>without closing tag
-### the attribules :
+### the attributes :
 - src:using to tell the browser where the image
 - alt:if you can not see the image the alt will appear
 - title:more info about image
