@@ -9,4 +9,11 @@ two type of creating objects :
 ### Arrays in object & objects in arrays:
 - arrays in object (room1:[ 200,39,10], room2[ 150,40,12])
 object in array(arr=[{ accom : 420,food :40,phone:10}])
+### built-in objects:
+its like a toolkit for ceating interactive web pages.  
+compartments:
+- browser object model
+- document object model
+- global javascript objects
+
 
