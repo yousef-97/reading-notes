@@ -36,6 +36,6 @@ textContent(proprety):to update all text inside the node what ever if there is a
 - not standard
 - it will not show the content that has been hidde
 ### adding or remaoing HTML content:
-
+- innerHTML:(pro)have some security resks
 
 
