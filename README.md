@@ -28,7 +28,7 @@ this is for all readings for **couse 201**: <br />
 
 |  ***#Read*** |      link      |
 |----------|:-------------:|
-| Read01 | [Read01]() |
+| Read01 | [Read01](https://yousef-97.github.io/reading-notes/read01) |
 | Read02 | [Read02]() |
 | Read03 | [Read03]() |
 | Read04 | [Read04]() |
