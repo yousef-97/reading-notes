@@ -31,7 +31,7 @@ this is for all readings for **couse 201**: <br />
 | Read01 | [Read01](https://yousef-97.github.io/reading-notes/read01) |
 | Read02 | [Read02](https://yousef-97.github.io/reading-notes/read02) |
 | Read03 | [Read03](https://yousef-97.github.io/reading-notes/read03) |
-| Read04 | [Read04]() |
+| Read04 | [Read04](https://yousef-97.github.io/reading-notes/read04) |
 | Read05 | [Read05]() |
 | Read06 | [Read06]() |
 | Read07 | [Read07]() |
