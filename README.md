@@ -32,7 +32,7 @@ this is for all readings for **couse 201**: <br />
 | Read02 | [Read02](https://yousef-97.github.io/reading-notes/read02) |
 | Read03 | [Read03](https://yousef-97.github.io/reading-notes/read03) |
 | Read04 | [Read04](https://yousef-97.github.io/reading-notes/read04) |
-| Read05 | [Read05]() |
+| Read05 | [Read05](https://yousef-97.github.io/reading-notes/read05) |
 | Read06 | [Read06]() |
 | Read07 | [Read07]() |
 | Read08 | [Read08]() |
