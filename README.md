@@ -14,15 +14,15 @@ this is for all readings for **couse 201**: <br />
 | Read04 | [Read04](https://yousef-97.github.io/reading-notes/class-04) |
 | Read05 | [Read05](https://yousef-97.github.io/reading-notes/class-05) |
 | Read06 | [Read06](https://yousef-97.github.io/reading-notes/class-06) |
-| Read07 | link |
-| Read08 | link |
-| Read09 | link |
-| Read10 | link |
-| Read11 | link |
-| Read12 | link |
-| Read13 | link |
-| Read14 | link |
-| Read15 | link |
+| Read07 | [Read07](https://yousef-97.github.io/reading-notes/class-07) |
+| Read08 | [Read08](https://yousef-97.github.io/reading-notes/class-08)|
+| Read09 | [Read09](https://yousef-97.github.io/reading-notes/class-09)|
+| Read10 | [Read10](https://yousef-97.github.io/reading-notes/class-10)|
+| Read11 | [Read11](https://yousef-97.github.io/reading-notes/class-11)|
+| Read12 | [Read12](https://yousef-97.github.io/reading-notes/class-12) |
+| Read13 | [Read13](https://yousef-97.github.io/reading-notes/class-13)|
+| Read14 | [Read14](https://yousef-97.github.io/reading-notes/class-14)|
+| Read15 | [Read15](https://yousef-97.github.io/reading-notes/class-15)|
 
 </td><td>
 
@@ -33,16 +33,16 @@ this is for all readings for **couse 201**: <br />
 | Read03 | [Read03](https://yousef-97.github.io/reading-notes/read03) |
 | Read04 | [Read04](https://yousef-97.github.io/reading-notes/read04) |
 | Read05 | [Read05](https://yousef-97.github.io/reading-notes/read05) |
-| Read06 | [Read06]() |
-| Read07 | [Read07]() |
-| Read08 | [Read08]() |
-| Read09 | [Read09]() |
-| Read10 | [Read10]() |
-| Read11 | [Read11]() |
-| Read12 | [Read12]() |
-| Read13 | [Read13]() |
-| Read14 | [Read14]() |
-| Read15 | [Read15]() |
+| Read06 | [Read06](https://yousef-97.github.io/reading-notes/read06) |
+| Read07 | [Read07](https://yousef-97.github.io/reading-notes/read07) |
+| Read08 | [Read08](https://yousef-97.github.io/reading-notes/read08) |
+| Read09 | [Read09](https://yousef-97.github.io/reading-notes/read09) |
+| Read10 | [Read10](https://yousef-97.github.io/reading-notes/read10) |
+| Read11 | [Read11](https://yousef-97.github.io/reading-notes/read11) |
+| Read12 | [Read12](https://yousef-97.github.io/reading-notes/read12) |
+| Read13 | [Read13](https://yousef-97.github.io/reading-notes/read13) |
+| Read14 | [Read14](https://yousef-97.github.io/reading-notes/read14) |
+| Read15 | [Read15](https://yousef-97.github.io/reading-notes/read15) |
 
 </td></tr> </table>
 
