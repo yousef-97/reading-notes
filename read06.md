@@ -8,7 +8,7 @@ Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Goog
 - npm install -g (package name)(to install the package globally)
 - npm init -y (to initiate the package locally)
 ### What Is Node.js Used For?
-if you want to start developing apps with any modern JavaScript framework (for example, React or Angular), you’ll be expected to have a working knowledge of Node and npm. This isn’t because you need a Node back end to run these frameworks.it’s because these frameworks (and many, many related packages) are all available via npm and rely on Node to create a sensible development environment in which they can run.
+if you want to start developing apps with any modern JavaScript framework (for example, React or Angular), you’ll be expected to have a working knowledge of Node and npm. This isn’t because you need a Node back end to run these frameworks . it’s because these frameworks (and many, many related packages) are all available via npm and rely on Node to create a sensible development environment in which they can run.
 ### The Node Execution Model
 Node.js is single-threaded It’s also event-driven which means that everything that happens in Node is in reaction to an event. For example, when a new request comes in (one kind of event) the server will start processing it. If it then encounters a blocking I/O operation, instead of waiting for this to complete, it will register a callback before continuing to process the next event. When the I/O operation has finished (another kind of event), the server will execute the callback and continue working on the original request. Under the hood, Node uses the libuv library to implement this asynchronous (that is, non-blocking) behavior.
 ### Pros of using Node.js
