@@ -42,7 +42,7 @@ this is for all readings for **couse 201**: <br />
 | Read12 | [Read12](https://yousef-97.github.io/reading-notes/read12) |
 | Read13 | [Read13](https://yousef-97.github.io/reading-notes/read13) |
 | Read14 | [Read14a](https://yousef-97.github.io/reading-notes/read14a) |
-| Read15 | [Read14b](https://yousef-97.github.io/reading-notes/read14b) |
+| Read15 | [Read15](https://yousef-97.github.io/reading-notes/read15) |
 
 </td></tr> </table>
 
